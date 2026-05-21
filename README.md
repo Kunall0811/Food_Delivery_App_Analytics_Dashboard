@@ -1,110 +1,242 @@
-# 🍔 Food Delivery Analytics Dashboard
+# 🍽️ Food Delivery Analytics Dashboard
 
 ## 📌 Overview
 
-This project is an end-to-end **Power BI analytics dashboard** built to analyze food delivery business performance using interactive visualizations, KPI tracking, and business intelligence techniques.
+This project is an end-to-end Business Intelligence dashboard built using Microsoft Power BI to analyze restaurant performance, customer behavior, delivery operations, and overall food delivery business metrics.
 
-The dashboard transforms raw delivery data into meaningful insights by performing data cleaning, transformation, data modeling, DAX calculations, and interactive reporting to support data-driven decision-making.
-
----
-
-## 🚀 Key Features
-
-* Interactive KPI Dashboard
-* Customer & Revenue Analysis
-* Restaurant Performance Tracking
-* Delivery Performance Monitoring
-* City-wise Revenue Trends
-* Repeat Customer Analysis
-* Business Intelligence Reporting
-* Dynamic Filters & Slicers
-* Data-driven Insights Visualization
+The dashboard simulates real-world analytics systems used by food delivery platforms like Zomato and Swiggy, helping businesses monitor KPIs, optimize operations, and make data-driven decisions.
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## 🎯 Project Objectives
 
-* **Power BI**
-* **Power Query**
-* **DAX (Data Analysis Expressions)**
-* **Star Schema Data Modeling**
-* **Data Visualization**
-
----
-
-## 📂 Data Model
-
-Designed a **star schema data model** for efficient querying and reporting using the following tables:
-
-* Orders
-* Customers
-* Restaurants
-* Date
+- Analyze restaurant and cuisine performance
+- Monitor delivery efficiency and late deliveries
+- Track customer ordering behavior
+- Identify high-performing cities and restaurants
+- Build interactive and dynamic dashboards using slicers and drill-throughs
+- Generate advanced business insights through KPI analysis
 
 ---
 
-## 📊 KPIs & Metrics Created
+# 📊 Dashboard Pages
 
-Developed **20+ DAX measures**, including:
+## 1️⃣ Executive Overview
 
-* Revenue
-* Average Order Value (AOV)
-* Repeat Customer %
-* Delivery KPIs
-* Order Trends
-* Customer Performance Metrics
+Provides a high-level summary of the business using KPI cards and trend analysis.
 
----
+### Key Metrics
+- Total Revenue
+- Total Orders
+- Average Order Value
+- Average Rating
+- Average Delivery Time
 
-## 📈 Dashboard Insights
-
-Analyzed **56K+ records** to uncover business insights such as:
-
-* 50% Repeat Customers
-* 48% Late Deliveries
-* City-wise Revenue Trends
-* Delivery Performance Analysis
-* Customer Ordering Patterns
+### Features
+- City-wise filtering
+- Dynamic KPI visualization
+- Revenue and order trends
+- Interactive slicers
 
 ---
 
-## 🎯 Project Workflow
+## 2️⃣ Customer Analytics
 
-1. Data Cleaning using Power Query
-2. Data Transformation & Preparation
-3. Star Schema Data Modeling
-4. DAX Measure Creation
-5. KPI Dashboard Development
-6. Business Insights & Reporting
+Analyzes customer behavior and engagement patterns.
 
----
-
-## 📸 Dashboard Preview
-
-*Add dashboard screenshots here*
-
-![Dashboard Screenshot](screenshots/dashboard1.png)
+### Insights
+- New vs Returning Customers
+- Table Booking Analysis
+- Customer Ordering Trends
+- Customer Segmentation
 
 ---
 
-## 📁 Project File
+## 3️⃣ Restaurant Performance
 
-* `Food_Delivery_Analytics_Dashboard.pbix`
+Evaluates restaurant and cuisine-level performance.
+
+### Insights
+- Top Performing Restaurants
+- Revenue by Cuisine
+- Rating vs Revenue Analysis
+- Online vs Offline Orders
+- Cost Bucket Analysis
+
+### Advanced Visualization
+- Scatter Plot Analysis
+- Cuisine Performance Comparison
+- Revenue Distribution
 
 ---
 
-## 🌟 Project Outcome
+## 4️⃣ Delivery & Operations
 
-Built a complete analytics and reporting solution that helps monitor business performance, customer behavior, and delivery operations through interactive dashboards and actionable insights.
+Focuses on operational efficiency and delivery monitoring.
+
+### KPIs
+- Average Delivery Time
+- Late Orders
+- Late Delivery Percentage
+- Cancelled Orders
+
+### Insights
+- City-wise Delivery Performance
+- Delivery Status Breakdown
+- Cancellation Analysis
+- Order Status Matrix
 
 ---
 
-## 👨‍💻 Author
+## 5️⃣ Advanced Insights
 
-**Kunal Shelukar**
+Provides dynamic and interactive business analysis.
+
+### Features
+- Dynamic KPI Selector
+- KPI Trend Analysis
+- Q&A Visuals
+- Interactive Business Queries
+- Drill-through Navigation
 
 ---
 
-## 📜 License
+## 🔥 Key Features
+
+- Interactive Power BI Dashboard
+- Dynamic KPI Switching using DAX
+- Drill-through Restaurant Details
+- Multi-page Dashboard Architecture
+- Advanced Slicers and Filters
+- Business-Oriented KPI Reporting
+- Interactive Q&A Analytics
+- Real-time Visual Storytelling
+
+---
+
+# 🛠️ Tools & Technologies Used
+
+- Microsoft Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Interactive Visualizations
+
+---
+
+# 📈 Business KPIs Used
+
+- Revenue
+- Total Orders
+- Average Order Value (AOV)
+- Average Delivery Time
+- Cancellation Rate
+- Late Delivery Percentage
+- Customer Retention
+- Restaurant Ratings
+
+---
+
+# 🧠 Concepts Covered
+
+- Business Intelligence
+- Dashboard Design
+- Data Visualization
+- Data Modeling
+- KPI Analytics
+- Drill Through
+- Dynamic Measures
+- Slicers & Filters
+- Operational Analytics
+- Customer Analytics
+- Restaurant Analytics
+
+---
+
+# 🚀 Advanced Power BI Features Used
+
+## ✅ Dynamic KPI Selection
+Implemented dynamic KPI switching using:
+- Dummy KPI Table
+- DAX Measures
+- Slicer-Based Visual Interaction
+
+## ✅ Drill Through Navigation
+Enabled detailed restaurant-level analysis through drill-through functionality.
+
+## ✅ Interactive Filtering
+Used slicers for:
+- City
+- Year
+- Cost Bucket
+- Online/Offline Orders
+- Table Booking
+
+---
+
+# 📷 Dashboard Preview
+
+[Executive Overview](executive_overview.png) | [Customer Analytics](customer_analytics.png) | [Restaurant Performance](restaurant_performance.png) | [Delivery & Operations](delivery_and_operations.png) | [Advanced Insights](advanced_insights.png) | [Drillthrough Restaurant Details](drillthrough_restaurantdetails.png)
+
+---
+
+# 📂 Project Structure
+
+```bash
+Food-Delivery-Analytics-Dashboard/
+│
+├── Dashboard.pbix
+├── README.md
+├── screenshots/
+│   ├── executive_overview.png
+│   ├── customer_analytics.png
+│   ├── restaurant_performance.png
+│   ├── delivery_operations.png
+│   └── advanced_insights.png
+|   └── drillthrough_restaurantdetails.png
+```
+
+---
+
+# 💡 Business Impact
+
+This dashboard helps businesses:
+- Improve delivery efficiency
+- Reduce cancellations
+- Analyze customer behavior
+- Monitor restaurant performance
+- Make data-driven operational decisions
+
+---
+
+# 📚 Learning Outcomes
+
+Through this project, I learned:
+- End-to-end Power BI dashboard development
+- KPI-driven business reporting
+- Dynamic DAX calculations
+- Dashboard storytelling
+- Interactive analytics design
+- Real-world business intelligence concepts
+
+---
+
+# 🔗 Future Improvements
+
+- Real-time streaming dashboard
+- Predictive delivery analytics
+- AI-powered recommendations
+- Customer churn prediction
+- Forecasting models
+
+---
+
+# 👨‍💻 Author
+
+Kunal Shelukar
+
+---
+
+# 📜 License
 
 This project is licensed under the MIT License.
