@@ -21,7 +21,7 @@ The dashboard simulates real-world analytics systems used by food delivery platf
 
 # 📊 Dashboard Pages
 
-## 1️⃣ Executive Overview | [[Dashboard Preview](executive_overview.png)] 
+## 1️⃣ Executive Overview | [[Dashboard Preview](screenshots/executive_overview.png)]
 
 Provides a high-level summary of the business using KPI cards and trend analysis.
 
@@ -33,14 +33,14 @@ Provides a high-level summary of the business using KPI cards and trend analysis
 - Average Delivery Time
 
 ### Features
-- City-wise filtering
-- Dynamic KPI visualization
-- Revenue and order trends
-- Interactive slicers
+- City-wise Filtering
+- Dynamic KPI Visualization
+- Revenue & Order Trends
+- Interactive Slicers
 
 ---
 
-## 2️⃣ Customer Analytics
+## 2️⃣ Customer Analytics | [[Dashboard Preview](screenshots/customer_analytics.png)]
 
 Analyzes customer behavior and engagement patterns.
 
@@ -52,7 +52,7 @@ Analyzes customer behavior and engagement patterns.
 
 ---
 
-## 3️⃣ Restaurant Performance
+## 3️⃣ Restaurant Performance | [[Dashboard Preview](screenshots/restaurant_performance.png)]
 
 Evaluates restaurant and cuisine-level performance.
 
@@ -63,14 +63,14 @@ Evaluates restaurant and cuisine-level performance.
 - Online vs Offline Orders
 - Cost Bucket Analysis
 
-### Advanced Visualization
+### Advanced Visualizations
 - Scatter Plot Analysis
 - Cuisine Performance Comparison
 - Revenue Distribution
 
 ---
 
-## 4️⃣ Delivery & Operations
+## 4️⃣ Delivery & Operations | [[Dashboard Preview](screenshots/delivery_and_operations.png)]
 
 Focuses on operational efficiency and delivery monitoring.
 
@@ -88,7 +88,7 @@ Focuses on operational efficiency and delivery monitoring.
 
 ---
 
-## 5️⃣ Advanced Insights
+## 5️⃣ Advanced Insights | [[Dashboard Preview](screenshots/advanced_insights.png)]
 
 Provides dynamic and interactive business analysis.
 
@@ -98,6 +98,26 @@ Provides dynamic and interactive business analysis.
 - Q&A Visuals
 - Interactive Business Queries
 - Drill-through Navigation
+
+---
+
+## 6️⃣ Restaurant Details (Drill Through) | [[Dashboard Preview](screenshots/drillthrough_restaurantdetails.png)]
+
+Provides detailed restaurant-level analysis using drill-through functionality.
+
+### Insights
+- Restaurant Revenue Analysis
+- Average Ratings & Votes
+- Delivery Performance
+- Order Trends
+- Cuisine-wise Orders
+- Customer Type Analysis
+
+### Features
+- Drill-through Navigation
+- Dynamic KPI Analysis
+- Restaurant-Level Filtering
+- Interactive Trend Analysis
 
 ---
 
@@ -171,12 +191,6 @@ Used slicers for:
 - Cost Bucket
 - Online/Offline Orders
 - Table Booking
-
----
-
-# 📷 Dashboard Preview
-
-[Executive Overview](executive_overview.png) | [Customer Analytics](customer_analytics.png) | [Restaurant Performance](restaurant_performance.png) | [Delivery & Operations](delivery_and_operations.png) | [Advanced Insights](advanced_insights.png) | [Drillthrough Restaurant Details](drillthrough_restaurantdetails.png)
 
 ---
 
