@@ -1,12 +1,12 @@
 # 🍽️ Food Delivery App Analytics Dashboard
 
-[[Dashboard Preview](food_delivery_app_analysis.pbix)]
-
 ## 📌 Overview
 
 This project is an end-to-end Business Intelligence dashboard built using Microsoft Power BI to analyze restaurant performance, customer behavior, delivery operations, and overall food delivery business metrics.
 
 The dashboard simulates real-world analytics systems used by food delivery platforms like Zomato and Swiggy, helping businesses monitor KPIs, optimize operations, and make data-driven decisions.
+
+[[Dashboard Preview](food_delivery_app_analysis.pbix)]
 
 ---
 
