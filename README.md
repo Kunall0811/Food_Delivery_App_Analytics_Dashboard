@@ -1,5 +1,7 @@
 # 🍽️ Food Delivery App Analytics Dashboard
 
+[[Dashboard Preview](food_delivery_app_analysis.pbix)]
+
 ## 📌 Overview
 
 This project is an end-to-end Business Intelligence dashboard built using Microsoft Power BI to analyze restaurant performance, customer behavior, delivery operations, and overall food delivery business metrics.
