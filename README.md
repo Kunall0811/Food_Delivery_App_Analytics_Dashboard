@@ -23,7 +23,7 @@ The dashboard simulates real-world analytics systems used by food delivery platf
 
 # 📊 Dashboard Pages
 
-## 1️⃣ Executive Overview | [[Dashboard Preview](screenshots/executive_overview.png)]
+## 1️⃣ Executive Overview | [[Dashboard Page Preview](screenshots/executive_overview.png)]
 
 Provides a high-level summary of the business using KPI cards and trend analysis.
 
@@ -42,7 +42,7 @@ Provides a high-level summary of the business using KPI cards and trend analysis
 
 ---
 
-## 2️⃣ Customer Analytics | [[Dashboard Preview](screenshots/customer_analytics.png)]
+## 2️⃣ Customer Analytics | [[Dashboard Page Preview](screenshots/customer_analytics.png)]
 
 Analyzes customer behavior and engagement patterns.
 
@@ -54,7 +54,7 @@ Analyzes customer behavior and engagement patterns.
 
 ---
 
-## 3️⃣ Restaurant Performance | [[Dashboard Preview](screenshots/restaurant_performance.png)]
+## 3️⃣ Restaurant Performance | [[Dashboard Page Preview](screenshots/restaurant_performance.png)]
 
 Evaluates restaurant and cuisine-level performance.
 
@@ -72,7 +72,7 @@ Evaluates restaurant and cuisine-level performance.
 
 ---
 
-## 4️⃣ Delivery & Operations | [[Dashboard Preview](screenshots/delivery_and_operations.png)]
+## 4️⃣ Delivery & Operations | [[Dashboard Page Preview](screenshots/delivery_and_operations.png)]
 
 Focuses on operational efficiency and delivery monitoring.
 
@@ -90,7 +90,7 @@ Focuses on operational efficiency and delivery monitoring.
 
 ---
 
-## 5️⃣ Advanced Insights | [[Dashboard Preview](screenshots/advanced_insights.png)]
+## 5️⃣ Advanced Insights | [[Dashboard Page Preview](screenshots/advanced_insights.png)]
 
 Provides dynamic and interactive business analysis.
 
@@ -103,7 +103,7 @@ Provides dynamic and interactive business analysis.
 
 ---
 
-## 6️⃣ Restaurant Details (Drill Through) | [[Dashboard Preview](screenshots/drillthrough_restaurantdetails.png)]
+## 6️⃣ Restaurant Details (Drill Through) | [[Dashboard Page Preview](screenshots/drillthrough_restaurantdetails.png)]
 
 Provides detailed restaurant-level analysis using drill-through functionality.
 
